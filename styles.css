@@ -19,19 +19,18 @@ body {
   margin: 0;
   padding: 0;
 }
-h2 {
-  font-family: "Viaoda Libre", cursive;
-  margin-left: 1rem;
+main {
+  width: 100%;
 }
 
 section {
-  width: 15rem;
+  width: 20rem;
 }
 
 .container {
-  font-family: cursive;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   text-align: -webkit-center;
-  font-size: 1rem;
+  font-size: 130%;
   margin-top: -3rem;
   color: aliceblue;
 }
@@ -45,6 +44,7 @@ section {
   color: black;
   border-radius: 6px;
   margin-top: -3%;
+  padding: 2px;
 }
 
 .icons {
@@ -52,7 +52,7 @@ section {
 }
 
 .logo {
-  width: 14rem;
+  width: 17rem;
   cursor: pointer;
 }
 
